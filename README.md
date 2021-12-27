@@ -1,1 +1,2 @@
-# .github
+# joddy.dev
+www.joddy.dev
